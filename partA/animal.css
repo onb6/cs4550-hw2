@@ -1,0 +1,52 @@
+.red-text {
+    color: red;
+}
+
+.orange-text {
+    color: orange;
+}
+
+.yellow-text {
+    color: yellow;
+}
+
+.yellow-green-text {
+    color: yellowgreen;
+}
+
+.green-text {
+    color: green;
+}
+
+.cyan-text {
+    color: cyan;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.purple-text {
+    color: purple;
+}
+
+.magenta-text {
+    color: magenta;
+}
+
+.pink-text {
+    color: pink;
+}
+
+table, th  {
+    border: 2px solid teal;
+    background-color: lavender;
+    color: darkred;
+    padding: 5pt;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid teal;
+    padding: 5pt;
+}
